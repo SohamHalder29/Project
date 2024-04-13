@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "target": "ESNext",
+        "esModuleInterop": true,
+        "traceResolution": true,
+    },
+    "exclude": ["node_modules",".gitignore",".env.example","jsconfig.json","package.json",".yarn.lock"],
+    "include": ["./src/**/*","./public/**/*",".env"]
+}
