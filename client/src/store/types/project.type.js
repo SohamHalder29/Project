@@ -1,0 +1,5 @@
+export const ADD_PROJECT = "ADD_PROJECT";
+export const EDIT_PROJECT = "EDIT_PROJECT";
+export const REMOVE_PROJECT = "REMOVE_PROJECT";
+export const VIEW_PROJECT = "VIEW_PROJECT";
+export const VIEW_PROJECT_LIST = "VIEW_PROJECT_LIST";
